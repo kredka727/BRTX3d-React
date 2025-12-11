@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://periodic-defensive-sheep-e4kd2f.teleporthq.app/sitemap.xml

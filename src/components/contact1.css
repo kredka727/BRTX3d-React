@@ -1,0 +1,115 @@
+.contact1-thq-contact20-elm {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-direction: column;
+}
+ 
+.contact1-thq-max-width-elm {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.contact1-thq-content-elm1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.contact1-thq-contact-info-elm1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contact1-thq-content-elm2 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contact1-thq-text-elm1 {
+  align-self: stretch;
+  text-align: center;
+}
+ 
+.contact1-thq-text-elm2 {
+  text-align: center;
+}
+ 
+.contact1-thq-email-elm {
+  text-align: center;
+}
+ 
+.contact1-thq-content-elm3 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  flex: 1;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.contact1-thq-contact-info-elm2 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contact1-thq-content-elm4 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contact1-thq-text-elm3 {
+  align-self: stretch;
+  text-align: center;
+}
+ 
+.contact1-thq-text-elm4 {
+  text-align: center;
+}
+ 
+.contact1-thq-phone-elm {
+  text-align: center;
+}
+ 
+.contact1-text1 {
+  display: inline-block;
+}
+ 
+.contact1-text2 {
+  display: inline-block;
+}
+ 
+.contact1-text3 {
+  display: inline-block;
+}
+ 
+.contact1-text4 {
+  display: inline-block;
+}
+ 
+@media(max-width: 767px) {
+  .contact1-thq-max-width-elm {
+    flex-direction: column;
+  }
+}

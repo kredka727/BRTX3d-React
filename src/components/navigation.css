@@ -1,0 +1,41 @@
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-thq-navigation-logo-elm {
+  text-decoration: none;
+}
+ 
+.navigation-thq-btn-elm1 {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+ 
+.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5 {
+  display: contents;
+}
+ 
+.navigation-container6 {
+  display: none;
+}
+ 
+.navigation-container7 {
+  display: contents;
+}
+ 
+.navigation-text8 {
+  display: inline-block;
+}

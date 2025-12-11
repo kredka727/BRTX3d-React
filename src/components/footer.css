@@ -1,0 +1,30 @@
+.footer-container1 {
+  display: contents;
+}
+ 
+.footer-thq-footer-content-elm {
+  width: 997px;
+}
+ 
+.footer-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.footer-thq-footer-main-elm {
+  width: 934px;
+  height: 79px;
+}
+ 
+.footer-thq-footer-brand-elm {
+  width: 374px;
+  height: 187px;
+}
+ 
+.footer-thq-footer-brand-description-elm {
+  width: 950px;
+  height: 47px;
+}
